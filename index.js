@@ -20,9 +20,9 @@ const instagram = 'Follow @mauulxs_';
 const aktif = 'Aktif dari 08.00 s/d 22.00';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Nama kamu\n' // Nama kamu
-            + 'ORG:Nama bot;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6280000000000:+62 000-0000-0000\n' //Nomor whatsapp kamu
+            + 'FN:Maulana Azis\n' // Maulana Azis
+            + 'ORG:LilDiablos;\n' // LilDiablos
+            + 'TEL;type=CELL;type=VOICE;waid=6285853554038:+62 858-5355-4038\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
@@ -1409,6 +1409,6 @@ Silakan pilih :
 }
 
 //Hay gay
-//create @mrf.zvx don't delate this please
+//create @mauulxs_ don't delate this please
 	
 })
