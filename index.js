@@ -15,9 +15,9 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'Nama bot'; 
-const instagram = 'Instagram kamu'; 
-const aktif = 'Kapan bot aktif';
+const BotName = 'Hai Saya LilDiablos'; 
+const instagram = 'Follow @mauulxs_'; 
+const aktif = 'Aktif dari 08.00 s/d 22.00';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Nama kamu\n' // Nama kamu
